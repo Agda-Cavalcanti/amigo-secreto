@@ -1,6 +1,6 @@
 <h1 align="center"> Amigo Secreto </h1>
 
-<h2>Descrição do projeto</h2>
+# Descrição do projeto
 
 <p>O sistema tem como objetivo <b>realizar um sorteio de uma lista de amigos que é inserido pelo usuário.</b></p>
 
