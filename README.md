@@ -87,6 +87,10 @@ Embora tenha cumprido todas as exigências do desafio, identifiquei algumas áre
 <p>Este challenge foi uma excelente oportunidade de aprendizado e prática dos conceitos anteriormente estudados.<br><br>Pude aperfeiçoar o conceito de lógica de programação, consolidar meus conhecimentos, dominar o pensamento lógico, aprimorar as habilidades de análise e resolução de problemas, além de ampliar minha perspectiva no mundo do desenvolvimento.</p>
 
 
+<p align="center">
+  <img src="assets/badge.webp" alt="Badge" width="300">
+</p>
+
 
 
 
